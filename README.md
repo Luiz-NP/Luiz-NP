@@ -3,8 +3,8 @@
 * My name is Luiz Gustavo, I'm a systems development student, my goal as a developer at the moment is to master languages and frameworks to work with web programming.
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Luiz-NP&hide=stars,issues&show_icons=true&theme=tokyonight"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-NP&layout=compact&theme=tokyonight"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Luiz-NP&hide=stars,issues&show_icons=true&theme=tokyonight"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-NP&layout=compact&theme=tokyonight"/>
 </div>
 
 - ### Technologies I use
