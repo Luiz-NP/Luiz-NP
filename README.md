@@ -3,8 +3,8 @@
 <h3>My name is Luiz Gustavo, I'm a systems development student, my goal as a developer at the moment is to master languages and frameworks to work with web programming.</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-NP&show_icons=true&title_color=0066ff&bg_color=131219&text_color=ffffff&icon_color=0066ff&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-NP&layout=compact&card_width=200&langs_count=7&title_color=0066ff&bg_color=131219&text_color=ffffff&icon_color=B991FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-NP&show_icons=true&title_color=272cd6&bg_color=131219&text_color=ffffff&icon_color=0066ff&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-NP&layout=compact&card_width=200&langs_count=7&title_color=272cd6&bg_color=131219&text_color=ffffff&icon_color=B991FF"/>
 </div>
 
 <div style="display: inline_blok">
@@ -21,6 +21,6 @@
       <img align="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a> 
     <a href="https://www.linkedin.com/in/luiz-gustavo-silva-oliveira-04917a23a/">
-        <img  width="30px" align="center" alt="email" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
+        <img align="center" alt="email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
