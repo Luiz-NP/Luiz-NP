@@ -17,10 +17,10 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <h2>Contact me</h2>
-    <a href="mailto:gustavoooliveira111@gmail.com">
+    <a href="mailto:gustavoooliveira111@gmail.com" target="_blank">
       <img align="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a> 
-    <a href="https://www.linkedin.com/in/luiz-gustavo-silva-oliveira-04917a23a/">
+    <a href="https://www.linkedin.com/in/luiz-gustavo-silva-oliveira-04917a23a/ target="_blank"">
         <img align="center" alt="email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
