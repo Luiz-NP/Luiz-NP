@@ -2,9 +2,12 @@
 
 * My name is Luiz Gustavo, I'm a systems development student, my goal as a developer at the moment is to master languages and frameworks to work with web programming.
 
+<div align="center">
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Luiz-NP&show_icons=true&theme=tokyonight"/>
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-NP&layout=compact&theme=tokyonight"/>
+</div>
+
 <div style="display: inline_blok">
-    <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=Luiz-NP&hide=stars,issues&show_icons=true&theme=tokyonight"/>
-    <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-NP&layout=compact&theme=tokyonight"/>
     <h2>Technologies I use</h2> 
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
