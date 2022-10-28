@@ -1,6 +1,6 @@
 <h1>Hello World!!</h1>
 
-<h3>My name is Luiz Gustavo, I'm a systems development, my goal as a developer at the moment is to master languages and frameworks to work with web programming.</h3>
+<h3>My name is Luiz Gustavo, I'm a systems developer, my goal as a dev at the moment is to master languages and frameworks to work with web programming.</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-NP&show_icons=true&title_color=272cd6&bg_color=131219&text_color=ffffff&icon_color=0066ff"/>
