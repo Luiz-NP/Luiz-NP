@@ -1,10 +1,6 @@
 <div align="center">
-  <h1>Hello World!!</h1>
-  
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Luiz-NP&show_icons=true&title_color=272cd6&bg_color=131219&text_color=ffffff&icon_color=0066ff"/>
-  
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luiz-NP&langs_count=6&layout=compact&card_width=250&title_color=272cd6&bg_color=131219&text_color=ffffff"/>
-</div>
+  <h2>Hello World!!</h2>
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef153518-c9bd-48b2-bfad-b436e7a747a5" />
 
 <div style="display: inline_blok">
     <h2>Technologies I use</h2> 
