@@ -1,5 +1,7 @@
 <div align="center">
-  <h2>Hello World!!</h2>
+  <h3>Hello World!!</h3>
+  <h3>And welcome to my profile — here you can explore more about my personal projects.</h3>
+    
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef153518-c9bd-48b2-bfad-b436e7a747a5" />
 </div>
 
